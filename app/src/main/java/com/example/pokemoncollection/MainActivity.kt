@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PokemonCollectionTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Gopi Mani Sri",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
